@@ -1,0 +1,7 @@
+name: CreeperDropAll
+version: '${version}'
+main: cx.rain.mc.creeperdropall.CreeperDropAll
+api-version: 1.18
+authors: [ qyl27 ]
+description: A Bukkit plugin that allow 100% drop blocks after the Creepers' explosion.
+website: https://github.com/MeowCraftMC/CreeperDropAll
